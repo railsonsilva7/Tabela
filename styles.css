@@ -1,0 +1,319 @@
+* {
+  font-family: 'Arial';
+}
+table {
+  font: px;
+  padding: 8px;
+  border-collapse: collapse;  
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  color: black;
+  border-right:;
+  }
+.libertadores {
+  color: #003366;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.pre-libertadores {
+  color: #1398BE;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.sul-americana {
+  color: #DE9800;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.cinza {
+  color: #CCCCCC;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.rebaixados {
+  color: #C91B04;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.titulo-das-colunas {
+  font-size: 13px;
+  color: #999999;
+  font-weight: bold;
+}
+.nome-dos-times {
+  font-weight: bold;
+  text-align: left;
+  color: #666666;
+  font-size: 14px;
+ font-weight: bold;
+}
+td:nth-child(3) {
+	background-color: #F7F7F7;
+	}
+
+  td:nth-child(5) {
+    background-color: #F7F7F7;
+    }
+
+
+    td:nth-child(7) {
+      background-color: #F7F7F7;
+      
+      }
+      td:nth-child(9) {
+        background-color: #F7F7F7;
+        }td:nth-child(11) {
+          background-color: #F7F7F7;
+          }
+          tr {
+            font-weight: bold;
+          }
+
+        .quadrado-azul-marinho {
+          width: 12px;
+          height: 12px;
+          position: relative;
+          background: #003366;
+          top: 10px;
+          left: 20px;     
+        }
+        
+        .quadrado-azul-celeste {
+          width: 12px;
+          height: 12px;
+          position: relative;
+          background: #1398BE;
+          top: 0px;
+          left: 200px;
+        }
+        .quadrado-laranja {
+          width: 12px;
+          height: 12px;
+          position: relative;
+          background: #DE9800;
+          top: -12px;
+          left: 400px;
+
+      }
+      .quadrado-vermelho {
+          width: 12px;
+          height: 12px;
+          position: relative;
+          background: #C91B04;
+          top: -2px;
+          left: 580px;
+
+      }
+        .pré-libertadores {
+          height: 9px;
+          position: relative;          
+          top: -34px;
+          left: 235px; 
+          font-weight: 10px bold;
+          color: #8F8F8F;          
+        }
+        .taça-libertadores {
+          position: relative;
+          top: -15px;
+          left: 35px;
+          font-weight: 10px bold;
+          color: #8F8F8F;            
+        }
+        .nome-sul-americana {
+          position: relative;
+          top: -43px;
+          left: 434px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        .nome-rebaixados {
+          position: relative;
+          top: -62px;
+          left: 595px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #pontos {
+          position: relative;
+          top: -70px;
+          left: 27px;          
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #p {
+          position: relative;
+          top: -50px;
+          left: 12px;          
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+
+        }
+        #j {
+          position: relative;
+          top: -87px;
+          left: 98px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+          
+        }
+        #jogos {
+          position: relative;
+          top: -107px;
+          left: 110px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+          
+        }
+        #v {
+          position: relative;
+          top: -124px;
+          left: 169px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+
+        }
+        #vitorias {
+          position: relative;
+          top: -143.7px;
+          left: 180px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+
+        }
+        #e {
+          position: relative;
+          top: -162px;
+          left: 250px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #empates {
+          position: relative;
+          top: -180px;
+          left: 265px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #d {
+          position: relative;
+          top: -199px;
+          left: 350px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+          
+        }
+        #derrotas {
+          position: relative;
+          top: -218px;
+          left: 364px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #gp {
+          position: relative;
+          top: -237px;
+          left: 445px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        #gols-pro {
+          position: relative;
+          top: -256px;
+          left: 470px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }    
+        #gc {
+          position: relative;
+          top: -274px;
+          left: 545px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }  
+        #gols-contra {
+          position: relative;
+          top: -294px;
+          left: 572px;
+          font-weight: 10px bold;
+          color: #8F8F8F; 
+        }
+        .coluna {
+          border:solid #DDDDDD 1px;
+        }
+        .coluna-1 {
+          border:solid #DDDDDD 1px;
+
+        }
+        .coluna-expressa {
+          border: solid #DDDDDD 1px;
+          border-bottom-width: 2px;
+        }
+        .quantidade-de-pontos {
+          font-size: 14px;
+          font-weight: bold;
+          
+        }
+        .aproveitamento {
+          position: relative;
+          top: -367px;
+          left: 809px;
+          font-weight: 10px bold;
+          color: #8F8F8F;
+        }
+        .aproveitamento-nome {
+          position: relative;
+          top: -349px;
+          left: 835px;
+          font-weight: 10px bold;
+          color: #8F8F8F;
+
+        }
+
+        .sg {
+          position: relative;
+          top: -311px;
+          left: 670px;
+          font-weight: 10px bold;
+          color: #8F8F8F;
+
+        }
+
+        .saldo-de-gols {
+          position: relative;
+          top: -329px;
+          left: 696px;
+          font-weight: 10px bold;
+          color: #8F8F8F;
+          
+        }
+        td.inferior {
+          border:solid 1px;
+
+
+        }
+        .rodapé {
+          border-collapse: collapse;
+        }
+        .quadrado-azul-marinho1 {
+          width: 12px;
+          height: 12px;
+          position: relative;
+          background: #003366;
+          top: 0px;
+          left: 20px; 
+
+        }
+        
+
+
+        
